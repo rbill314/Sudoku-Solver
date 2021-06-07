@@ -3,8 +3,6 @@ Free Code Camp Sudoku Solver
 
 Coded with VSCode and submitted thru Replit
 
-Only nodemon was used extra from what was given
-
 User Stories
 
 You should provide your own project, not the example URL.
